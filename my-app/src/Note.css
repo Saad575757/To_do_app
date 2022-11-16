@@ -1,0 +1,20 @@
+.para{
+    margin-left: 10px;
+    width: 120%;
+    height: 10px;
+    padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid white;
+  border-radius: 4px;
+  resize: none;
+  font-display: block;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: white;
+  box-shadow: 5px 5px 8px rgba(218, 203, 203, 0.877), 10px 10px 8px rgb(228, 212, 212), 15px 15px 8px rgba(179, 169, 169, 0.589);
+}
+
+.note{
+    margin-left: 270px;
+    display: flex;
+}
+
