@@ -30,7 +30,7 @@ const App =() =>{
     <>
     <div className='center'>
     <Main />
-    <Input readEvent={readType} />
+    <Input readEvent={readType}  />
     {item.map((val,index)=>{
       return <Note 
       key={index}
